@@ -32,3 +32,6 @@ A collection of C++ implementations of fundamental algorithms and lab exercises 
 * Greedy Method
 * Divide and Conquer
 * Optimization Strategies
+
+### Graph Algorithm
+* Kruskal’s Algorithm
