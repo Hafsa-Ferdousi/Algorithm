@@ -4,10 +4,9 @@ A collection of C++ implementations of fundamental algorithms and lab exercises 
 
 ## Topics Covered
  ### Searching Algorithms
+ * Linear Search
+ * Binary Search
 
-* Naive String Matching
-* Pattern Searching
-* Index-based Search Techniques
 
 ### String Matching Algorithms
 
